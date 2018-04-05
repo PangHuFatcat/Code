@@ -1,0 +1,5 @@
+设置 hosts：
+118.193.143.57    repo.796.com
+
+用户名：zhouguangjun
+密码：zhouguangjun,796

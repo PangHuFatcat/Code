@@ -1,0 +1,42 @@
+.input {
+  width: 200px;
+  height: 30px;
+  margin: 100px auto;
+  border: 1px solid #555;
+  white-space: nowrap;
+  overflow: hidden; }
+  .input div {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 30px; }
+  .input div:nth-child(1) {
+    padding-left: 8px; }
+  .input div:nth-child(2) {
+    padding-left: 2px; }
+    .input div:nth-child(2) input {
+      width: 160px;
+      border: 0;
+      font-size: 14px; }
+
+.input_ {
+  width: 200px;
+  height: 30px;
+  margin: 100px auto;
+  border: 1px solid #555;
+  border-radius: 20px;
+  white-space: nowrap;
+  overflow: hidden; }
+  .input_ div {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 30px; }
+  .input_ div:nth-child(1) {
+    padding-left: 8px; }
+  .input_ div:nth-child(2) {
+    padding-left: 2px; }
+    .input_ div:nth-child(2) input {
+      width: 160px;
+      border: 0;
+      font-size: 14px; }
+
+/*# sourceMappingURL=input.css.map */

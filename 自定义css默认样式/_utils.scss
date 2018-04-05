@@ -1,0 +1,62 @@
+@charset "utf-8";
+$font-size: 40; //根节点的字体大小
+@function r($px) {  
+    @return ($px/$font-size)*1rem; //计算rem
+}
+$top:r(100);//头部留出fixed位置
+$bottom:r(120);//底部部留出fixed位置
+@mixin web{
+    padding-top: $top;
+    padding-bottom: $bottom;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+@mixin midContent{
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: absolute;
+    top: r(100);
+    bottom: r(120);
+    width: 100%;  
+    padding:0 2.5%;  
+//  left:3%;
+//  right: 3%;
+    padding-bottom: r(40);
+    box-sizing: border-box;
+}
+
+//预设居中样式，条件是爸爸必须是relative
+@mixin middle{
+    position: absolute;
+    top:50%;
+    transform:translateY(-50%);
+}
+@mixin abCenter{ 
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+//  top:-9999px;
+//  bottom:-9999px;
+//  left: -9999px;
+//  right:-9999px;
+//  margin: auto;
+}
+@mixin aImg{
+    overflow: hidden;
+    position: relative;
+    img{
+        position: absolute;
+        width: 100%;
+//      top:-9999px;
+//      bottom:-9999px;
+//      left:-9999px;
+//      right:-9999px;
+//      margin: auto;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+}

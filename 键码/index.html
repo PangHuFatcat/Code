@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>test</title>
+		<style type="text/css">
+			* {
+				padding: 0;
+				margin: 0;
+				list-style: none;
+			}
+			div{
+				width: 100%;
+				text-align: center;
+			}
+			input{
+				display: inline-block;
+				margin-top: 100px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div>
+			<input type="text" name="" id="ipt" value="" />
+			<p id="text"></p>
+		</div>
+		<script type="text/javascript">
+			let ipt = document.getElementById("ipt").addEventListener("keydown",function(e){
+				document.getElementById("text").innerHTML = e.keyCode;
+			})
+		</script>
+	</body>
+
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>Document</title>
+		<style type="text/css">
+			div {
+				margin: 0;
+				padding: 0;
+				width: 184px;
+				height: 200px;
+				border: 1px solid #ccc;
+				display: none;
+			}
+			
+			.tab {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				width: 200px;
+				overflow: hidden;
+			}
+			
+			.tab li {
+				float: left;
+				width: 60px;
+				height: 30px;
+				background: #ccc;
+				color: #fff;
+				border: 1px solid red;
+				text-align: center;
+				line-height: 30px;
+				cursor: pointer;
+			}
+			
+			.on {
+				display: block;
+			}
+			
+			.tab li.cur {
+				background: blue;
+			}
+		</style>
+	</head>
+
+	<body>
+		<ul class="tab">
+			<li>最新</li>
+			<li class="cur">热门</li>
+			<li>新闻</li>
+		</ul>
+		<div class="chat">11</div>
+		<div class="chat on">22</div>
+		<div class="chat">33</div>
+		<script src="js/jquery-2.1.0.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$(".tab li").click(function() {
+					$(".tab li").eq($(this).index()).addClass("cur").siblings().removeClass('cur');
+					$(".chat").hide().eq($(this).index()).show();
+
+				});
+			});
+		</script>
+	</body>
+
+</html>

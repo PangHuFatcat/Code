@@ -1,0 +1,5 @@
+@charset "utf-8" ;
+$font-size: 40; //根节点的字体大小
+@function r($px) {  
+    @return ($px/$font-size)*1rem; //计算rem
+}
