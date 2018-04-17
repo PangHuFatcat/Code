@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+
+	<body>
+		<!--<script type="text/javascript">
+			var time = new Date(parseInt(1293072805) * 1000).toLocaleString().replace(/:\d{1,2}$/, ' ');
+			alert(time);
+		</script>-->
+		<script type="text/javascript">
+			function getLocalTime(nS) {
+				return new Date(parseInt(nS) * 1000).toLocaleString().replace(/:\d{1,2}$/, ' ');
+			}
+			alert(getLocalTime(1293072805));
+		</script>
+	</body>
+
+</html>
