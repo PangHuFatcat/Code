@@ -28,14 +28,15 @@
 			let div = document.getElementById("div");　　
 			div.onmousedown = function(e) {
 				let distanceX = e.clientX - div.offsetLeft;
-				let distanceY = e.clientY - div.offsetTop;
-				document.onmousemove = function(e) {　　　　　　
+				//let distanceY = e.clientY - div.offsetTop;
+				document.onmousemove = function(e) {
+					console.log(e.clientX - distanceX)
 					div.style.left = e.clientX - distanceX + 'px';　　　　　　
-					div.style.top = e.clientY - distanceY + 'px';　　　　
+					//div.style.top = e.clientY - distanceY + 'px';　　　　
 				};　　　　
 				document.onmouseup = function() {　　　　　　
 					document.onmousemove = null;　　　　　　
-					document.onmouseup = null;　　　　
+					//document.onmouseup = null;　　　　
 				};　　
 			};
 		</script>
