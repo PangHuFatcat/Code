@@ -7,7 +7,7 @@ function recalc() {
 	if(!clientWidth) return;
 	clientWidth = clientWidth > 420 ? 420 : clientWidth;
 	clientWidth = IsPC() ? clientWidth - 20 : clientWidth;
-	var rootSize = 40 * (clientWidth / 1960);
+	var rootSize = 40 * (clientWidth / 750);
 	var rootSize = Math.round(rootSize);
 	document.documentElement.style.cssText += "font-size:" + (rootSize) + 'px!important';
 	if(document.body) {
