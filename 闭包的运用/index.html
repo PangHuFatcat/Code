@@ -32,12 +32,14 @@
 				}
 			}
 			var PangHu = user('PangHu');
+			//这里改变了堆内存的的值 , 
 			PangHu.setName('Suey');
-			PangHu.setSex('男');
+			PangHu.setSex('女');
 			PangHu.setAge(18);
 			var PangHuName = PangHu.getName();
 			var PangHuAge = PangHu.getAge();
 			var PangHuSex = PangHu.getSex();
+			//但是这里访问的是栈内存的值的!!!!!!!!!!
 			console.log(PangHuName, PangHuAge, PangHuSex);
 		</script>
 	</body>
