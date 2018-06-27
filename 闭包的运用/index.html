@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>闭包的运用</title>
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			function user(name) {
+				var age, sex;
+				return {
+					getName: function() {
+						return name;
+					},
+					setName: function(newName) {
+						name = newName;
+					},
+					getAge: function() {
+						return age;
+					},
+					setAge: function(newAge) {
+						age = newAge;
+					},
+					getSex: function() {
+						return sex;
+					},
+					setSex: function(newSex) {
+						sex = newSex;
+					}
+				}
+			}
+			var PangHu = user('PangHu');
+			PangHu.setName('Suey');
+			PangHu.setSex('男');
+			PangHu.setAge(18);
+			var PangHuName = PangHu.getName();
+			var PangHuAge = PangHu.getAge();
+			var PangHuSex = PangHu.getSex();
+			console.log(PangHuName, PangHuAge, PangHuSex);
+		</script>
+	</body>
+
+</html>
