@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>es6语法选项卡-jq22.com</title>
+		<style>
+			* {
+				padding: 0;
+				margin: 0;
+			}
+			
+			div {
+				width: 200px;
+				height: 200px;
+				display: none;
+				background: #ccc;
+			}
+			
+			div:first-of-type {
+				display: block;
+			}
+		</style>
+	</head>
+
+	<body>
+		<button>1</button>
+		<button>2</button>
+		<button>3</button>
+		<div>aaa</div>
+		<div>bbb</div>
+		<div>ccc</div>
+
+		<script>
+			[...document.querySelectorAll("button")].find((item, i) => {
+				item['onclick'] = () => {
+					[...document.querySelectorAll("div")].find(d => {
+						d.style.display = "none"
+					});
+					[...document.querySelectorAll("div")][i].style.display = "block"
+				}
+			})
+		</script>
+
+	</body>
+
+</html>
