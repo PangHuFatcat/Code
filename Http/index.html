@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>http</title>
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			var http = (function() {
+
+				function a(conf) {
+					var url = conf.url,
+						data = conf.data,
+						method = conf.method,
+						callback = conf.callback;
+
+					var xhr = new XMLHttpRequest();
+					xhr.open(
+						method,
+						method.toUpperCase() === 'GET' ? url + '?' + parseData(data) : url,
+						true
+					);
+					xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+					xhr.send(method.toUpperCase() === 'POST' ? parseData(data) : null);
+					xhr.onload = function() {
+						if(xhr.status >= 200 && xhr.status <= 304) {
+							callback(xhr.responseText);
+						}
+					}
+				}
+
+				function parseData(data) {
+					var str = '';
+					for(var key in data) {
+						str += key + '=' + data[key] + '&';
+					}
+					return str.slice(0, -1);
+				}
+
+				return {
+					get: function(url, data, callback) {
+						a({
+							method: 'GET',
+							url: url,
+							data: data,
+							callback: callback
+						})
+					},
+					post: function(url, data, callback) {
+						a({
+							method: 'POST',
+							url: url,
+							data: data,
+							callback: callback
+						})
+					},
+				}
+
+			}());
+			
+			http.get('url', {data: '11'}, function(res) {
+				// callback
+			})
+
+			http.post('url', {data: '11'}, function(res) {
+				// callback
+			})
+		</script>
+	</body>
+
+</html>
