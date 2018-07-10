@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>test</title>
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			var str = "哈哈哈哈哈哈哈哈哈哈哈哈[囧][困][困]";
+			var regex = new RegExp('\\[[a-zA-Z0-9\\/\\u4e00-\\u9fa5]+\\]', 'g');
+			var m = str.match(regex);
+			console.log(m);
+		</script>
+	</body>
+
+</html>
