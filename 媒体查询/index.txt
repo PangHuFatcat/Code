@@ -1,0 +1,11 @@
+@media screen and (min-width: 750px) and (max-width: 1200px) {
+		=> 大于750px 小于1200px 有效
+}
+
+@media screen and (max-width: 1200px) {
+		=> 小于1200px 有效
+}
+
+@media screen and (min-width: 1200px) {
+		=> 大于1200px 有效
+}
