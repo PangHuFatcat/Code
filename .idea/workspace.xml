@@ -2,424 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b69633c2-8534-463d-8a55-55041cc6eedb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REM布局Demo/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REM布局js/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REM布局js/utils_new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/emjoy表情/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/emjoy表情/emjoy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git 不需要上传的文件/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Git忽略文件/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/css/input.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/css/input.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/初始化CSS/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/iconfont/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/iconfont/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/iconfont/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/iconfont/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/iconfont/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/input.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input框/scss/input.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/010-default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/020-navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/030-pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/040-pagination-dynamic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/050-pagination-progress.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/060-pagination-fraction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/070-pagination-custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/080-scrollbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/090-vertical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/100-space-between.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/110-slides-per-view.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/120-slides-per-view-auto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/130-centered.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/140-centered-auto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/150-freemode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/160-scroll-container.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/170-slides-per-column.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/180-nested.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/190-grab-cursor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/200-infinite-loop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/210-infinite-loop-with-slides-per-group.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/220-effect-fade.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/230-effect-cube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/240-effect-coverflow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/250-effect-flip.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/260-keyboard-control.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/270-mousewheel-control.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/280-autoplay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/290-dynamic-slides.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/300-thumbs-gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/310-thumbs-gallery-loop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/320-multiple-swipers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/330-hash-navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/340-history.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/350-rtl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/360-parallax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/370-lazy-load-images.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/380-responsive-breakpoints.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/390-autoheight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/400-zoom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/410-virtual-slides.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/420-custom-plugin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/demos/430-slideable-menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/css/swiper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/css/swiper.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/js/swiper.esm.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/js/swiper.esm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/js/swiper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/js/swiper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/dist/js/swiper.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/package.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/playground/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/scripts/banner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/scripts/build-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/scripts/build-js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/scripts/build-less.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/scripts/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/a11y/a11y.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/a11y/a11y.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/autoplay/autoplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/controller/controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/controller/controller.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/breakpoints/getBreakpoint.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/breakpoints/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/breakpoints/setBreakpoint.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/check-overflow/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/classes/addClasses.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/classes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/classes/removeClasses.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/core-class.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/events/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/events/onClick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/events/onResize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/events/onTouchEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/events/onTouchMove.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/events/onTouchStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/grab-cursor/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/grab-cursor/setGrabCursor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/grab-cursor/unsetGrabCursor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/images/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/images/loadImage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/images/preloadImages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/loop/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/loop/loopCreate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/loop/loopDestroy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/loop/loopFix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/manipulation/appendSlide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/manipulation/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/manipulation/prependSlide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/manipulation/removeAllSlides.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/manipulation/removeSlide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/slideNext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/slidePrev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/slideReset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/slideTo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/slideToClickedSlide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/slide/slideToLoop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/transition/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/transition/setTransition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/transition/transitionEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/transition/transitionStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/translate/getTranslate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/translate/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/translate/maxTranslate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/translate/minTranslate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/translate/setTranslate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateActiveIndex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateAutoHeight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateClickedSlide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateSize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateSlides.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateSlidesClasses.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateSlidesOffset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/core/update/updateSlidesProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-coverflow/effect-coverflow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-coverflow/effect-coverflow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-cube/effect-cube.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-cube/effect-cube.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-fade/effect-fade.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-fade/effect-fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-flip/effect-flip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/effect-flip/effect-flip.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/hash-navigation/hash-navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/history/history.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/keyboard/keyboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/lazy/lazy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/lazy/lazy.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/mousewheel/mousewheel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/navigation/navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/navigation/navigation.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/pagination/pagination.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/pagination/pagination.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/parallax/parallax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/scrollbar/scrollbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/scrollbar/scrollbar.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/virtual/virtual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/zoom/zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/components/zoom/zoom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/modules/browser/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/modules/device/device.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/modules/observer/observer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/modules/resize/resize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/modules/resize/resize.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/modules/support/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/swiper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/swiper.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/utils/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/utils/class.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/utils/device.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/utils/dom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/utils/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper插件4.1.6/src/utils/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web本地储存/storage.service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/css/flags.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/css/flags.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/css/htmleaf-demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/js/jquery-1.11.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下拉框国旗/js/jquery.flagstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/公司模板引擎账号/账号.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/兼容性前缀/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/兼容性前缀/img/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/兼容性前缀/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/在字符串中去掉所有的逗号/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/正则去掉字符/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/完全居中/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/完全居中/padding-top撑开.html" beforeDir="false" afterPath="$PROJECT_DIR$/完全居中/padding-top撑开.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏/css/index.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏/scss/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏/导航栏.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/css/index.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/scss/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/初始化CSS/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/导航栏两边式/scss/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/弹性盒子/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/弹性盒子/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/弹性盒子/子元素属性.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/弹性盒子实例/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/敏感词屏蔽/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/敏感词屏蔽/keywords.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/时间戳转成时间/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/时间戳转成时间/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/渐变色/渐变色.html" beforeDir="false" afterPath="$PROJECT_DIR$/渐变色/渐变色.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/点击切换背景/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/css/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/css/intlTelInput.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/css/intlTelInput.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/img/flags.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/img/flags@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/js/intlTelInput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/js/intlTelInput.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/build/js/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/css/countrySync.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/css/isValidNumber.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/css/prism.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/country-sync.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/default-country-ip.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/hidden-input.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/is-valid-number.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/modify-country-data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/national-mode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/gen/only-countries-europe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/countrySync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/defaultCountryIp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/hiddenInput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/isValidNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/modifyCountryData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/nationalMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/onlyCountriesEurope.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/js/prism.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/partials/countrySync.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/partials/hiddenInput.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/partials/isValidNumber.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/partials/nationalMode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/partials/simpleInput.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/examples/template.html.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/bump.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/cssmin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/exec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/imagemin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/jasmine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/jshint.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/replace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/responsive_images.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/retinafy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/sass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/shell.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/sprite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/tmpl/sprite.scss.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/uglify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/grunt/watch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/intl-tel-input.jquery.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/spec.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/css/demo.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/css/intlTelInput.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/css/sprite.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/css/sprite@2x.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/js/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/js/intlTelInput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/js/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/js/wrapper.js.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/helpers/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/closecountrydropdownEvent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/countrychangeEvent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/dropdownShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/initialValues.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/multipleInstances.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/usingDropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/core/usingInput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/destroy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/getExtension.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/getNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/getNumberType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/getSelectedCountryData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/getValidationError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/isValidNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/setCountry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/setNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/methods/setPlaceholderNumberType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/allowDropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/autoHideDialCode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/autoPlaceholder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/customPlaceholder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/dropdownContainer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/excludeCountries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/formatOnDisplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/geoIpLookup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/initialCountry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/nationalMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/onlyCountries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/placeholderNumberType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/preferredCountries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/separateDialCode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/options/utilsScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/static/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/static/getCountryData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/src/spec/tests/static/loadUtils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/css/index.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/iconfont/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/iconfont/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/iconfont/iconfont.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/iconfont/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/iconfont/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/iconfont/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/scss/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/移动端底部导航栏/导航栏.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义css默认样式/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义css默认样式/_utils.scss" beforeDir="false" afterPath="$PROJECT_DIR$/初始化CSS/_utils.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义css默认样式/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/随机数和随机颜色/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/随机数和随机颜色/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="25463546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/线性渐变/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="轮播图.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/轮播图/轮播图.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/选项卡/text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-526">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/逻辑运算符/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-288" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/随机数和随机颜色/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -435,6 +56,7 @@
         <option value="$PROJECT_DIR$/渐变色/渐变色.html" />
         <option value="$PROJECT_DIR$/完全居中/padding-top撑开.html" />
         <option value="$PROJECT_DIR$/时间戳转成时间/index.html" />
+        <option value="$PROJECT_DIR$/随机数和随机颜色/index.html" />
       </list>
     </option>
   </component>
@@ -443,9 +65,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
@@ -463,48 +82,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="线性渐变" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="维护优化2800网站" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="背景模糊渐变" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="轮播图" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="选项卡" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
               <item name="逻辑运算符" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="键码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="随机数和随机颜色" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -541,33 +125,34 @@
       <option name="presentableId" value="Default" />
       <updated>1529776543067</updated>
       <workItem from="1529776544586" duration="1354000" />
+      <workItem from="1532946353267" duration="472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1354000" />
+    <option name="totallyTimeSpent" value="1826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20898438" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20864068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,13 +169,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emjoy表情/emjoy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/emjoy表情/emjoy.html" />
     <entry file="file://$PROJECT_DIR$/js浮点数计算精度/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -598,37 +177,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web本地储存/storage.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/下拉框国旗/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/公司模板引擎账号/账号.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/兼容性前缀/img/bg2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/兼容性前缀/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web本地储存/storage.service.js" />
+    <entry file="file://$PROJECT_DIR$/下拉框国旗/index.html" />
+    <entry file="file://$PROJECT_DIR$/公司模板引擎账号/账号.txt" />
+    <entry file="file://$PROJECT_DIR$/兼容性前缀/img/bg2.jpg" />
+    <entry file="file://$PROJECT_DIR$/兼容性前缀/index.html" />
     <entry file="file://$PROJECT_DIR$/web本地储存demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -653,27 +206,9 @@
     <entry file="file://$PROJECT_DIR$/完全居中/定位-999拉开.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/导航栏/导航栏.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/弹性盒子/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/敏感词屏蔽/keywords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret column="408" selection-start-column="408" selection-end-column="408" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/导航栏/导航栏.html" />
+    <entry file="file://$PROJECT_DIR$/弹性盒子/index.html" />
+    <entry file="file://$PROJECT_DIR$/敏感词屏蔽/keywords.js" />
     <entry file="file://$PROJECT_DIR$/敏感词屏蔽/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -695,27 +230,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/点击切换背景/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/点击切换背景/index.html" />
+    <entry file="file://$PROJECT_DIR$/电话区号/intl-tel-input-12.3.0/demo.html" />
     <entry file="file://$PROJECT_DIR$/滚动条自动往下走/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,13 +246,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/线性渐变/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/轮播图/轮播图.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -740,25 +253,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/选项卡/text.html">
+    <entry file="file://$PROJECT_DIR$/线性渐变/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="552">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/逻辑运算符/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
+        <state relative-caret-position="192">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/选项卡/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/随机数和随机颜色/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
