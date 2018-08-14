@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>test</title>
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			function thousandBitSeparator(num) {
+				let DIGIT = /(^|\s)\d+(?=\.?\d*($|\s))/g
+				let MILI = /(?=(?!\b)(\d{3})+\.?\b)/g
+				return num && num.toString().replace(DIGIT, m => m.replace(MILI, ','))
+			}
+			console.log(thousandBitSeparator(1000000000000000000));
+		</script>
+	</body>
+
+</html>
