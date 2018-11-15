@@ -127,3 +127,16 @@ body {
 	display: block;
 	clear: both;
 }
+
+
+
+/*new-config-style*/
+body, p, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, form, fieldset, legend, input, select, textarea, button, th, td, menu {margin: 0;padding: 0;}
+
+ul, dl, ol, li {list-style: none;}
+
+body {font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;}
+
+::-moz-selection {background: #d3d3d3;color: #555;}
+
+::selection {background: #d3d3d3;color: #555;}
