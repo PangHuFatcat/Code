@@ -8,12 +8,9 @@
 
 	<body>
 		<script type="text/javascript">
-			function thousandBitSeparator(num) {
-				let DIGIT = /(^|\s)\d+(?=\.?\d*($|\s))/g
-				let MILI = /(?=(?!\b)(\d{3})+\.?\b)/g
-				return num && num.toString().replace(DIGIT, m => m.replace(MILI, ','))
-			}
-			console.log(thousandBitSeparator(1000000000000000000));
+			const toDecimalMark = num => num.toLocaleString('en-US');
+			toDecimalMark(12305030388.9087); // "12,305,030,388.909"
+			console.log(toDecimalMark(12305030388.9087));
 		</script>
 	</body>
 
