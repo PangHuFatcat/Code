@@ -8,8 +8,8 @@
 
 	<body>
 		<script type="text/javascript">
-			var timestamp = Date.parse(new Date("2018-9-3 8:00:00"))  / 1000;
-			alert("2018-9-3 8:00:00的时间戳为：" + timestamp);
+            const timestamp = time => new Date(time).getTime();
+            console.log(timestamp('2018-9-3 8:00:00'));
 		</script>
 	</body>
 
