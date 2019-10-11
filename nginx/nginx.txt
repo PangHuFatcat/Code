@@ -1,0 +1,2 @@
+taskkill /fi "imagename eq nginx.EXE" /f		杀死所有nginx进程
+start nginx 				启动
